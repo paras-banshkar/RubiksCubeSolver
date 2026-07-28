@@ -1,0 +1,13 @@
+//
+// Created by bansh on 28-07-2026.
+//
+
+#ifndef RUBIKSCUBESOLVER_GENERICRUBIKSCUBE_H
+#define RUBIKSCUBESOLVER_GENERICRUBIKSCUBE_H
+
+
+class GenericRubiksCube {
+};
+
+
+#endif //RUBIKSCUBESOLVER_GENERICRUBIKSCUBE_H
