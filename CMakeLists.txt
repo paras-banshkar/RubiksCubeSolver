@@ -6,4 +6,6 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(RubiksCubeSolver main.cpp
         RubiksCube.cpp
         RubiksCube.h
-        RubiksCube3dArray.cpp)
+        RubiksCube3dArray.cpp
+        RubiksCube1dArray.cpp
+        RubiksCubeBitboard.cpp)
